@@ -1,4 +1,4 @@
 # kpgroup-demo
 this is my first git repository
 <br/>
-Author - Anuj Gupta
+Author - Anuj (kpgroup)
